@@ -1,0 +1,2 @@
+# TesseractExample
+ uso de ocr 
